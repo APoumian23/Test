@@ -2,7 +2,7 @@ function saludo(saludoParametro) {
   console.log(saludoParametro);
 }
 
-saludo("Hola Mundo");
+saludo("Hola Mundo soy Alex");
 
 function despido(despidoParam) {
   console.log(despidoParam);
