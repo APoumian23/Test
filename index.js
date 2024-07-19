@@ -9,3 +9,9 @@ function despido(despidoParam) {
 }
 
 despido("Estas despedido");
+
+function jobName(jobParam) {
+  console.log(jobParam);
+}
+
+jobName("Soy un Desarrollador");
